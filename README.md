@@ -1,88 +1,56 @@
-\# 📒 Address Book Management System (C Project)
+# 📒 Address Book Management System (C Project)
 
+## 📌 Overview
 
-
-\## 📌 Overview
-
-This is a simple Address Book Management System written in C.  
-
+This is a simple Address Book Management System written in C.
 It allows users to store, search, edit, and delete contacts using file handling.
 
+---
 
+## 🚀 Features
 
-\---
+- Add new contact
+- View all contacts
+- Search contact
+- Edit contact
+- Delete contact
+- File-based storage
 
+---
 
+## 🛠️ Technologies Used
 
-\## 🚀 Features
+- C Programming
+- File Handling
+- Structures
+- Modular Programming
 
-\- Add new contact  
+---
 
-\- View all contacts  
+## ⚙️ How to Run
 
-\- Search contact  
-
-\- Edit contact  
-
-\- Delete contact  
-
-\- File-based storage  
-
-
-
-\---
-
-
-
-\## 🛠️ Technologies Used
-
-\- C Programming  
-
-\- File Handling  
-
-\- Structures  
-
-\- Modular Programming  
-
-
-
-\---
-
-
-
-\## ⚙️ How to Run
-
-
-
-\### Compile
+### Compile
 
 ```bash
-
 gcc main.c contact.c file.c -o addressbook
+```
 
-\---
-
-\###Run
+### Run
 
 ```bash
-
 ./addressbook
+```
 
-\---
+---
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
-\-Learned file handling in C
+- Learned file handling in C
+- Improved understanding of structures
+- Built modular code using multiple files
 
-\-Improved understanding of structures
+---
 
-\-Built modular code using multiple files
+## 👩‍💻 Author
 
-\---
-
-👩‍💻 Author
-
-
-
-Swati Pathak
-
+**Swati Pathak**
