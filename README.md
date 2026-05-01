@@ -10,6 +10,10 @@ It allows users to store, search, edit, and delete contacts using file handling.
 
 
 
+\---
+
+
+
 \## 🚀 Features
 
 \- Add new contact  
@@ -26,6 +30,10 @@ It allows users to store, search, edit, and delete contacts using file handling.
 
 
 
+\---
+
+
+
 \## 🛠️ Technologies Used
 
 \- C Programming  
@@ -38,33 +46,43 @@ It allows users to store, search, edit, and delete contacts using file handling.
 
 
 
+\---
+
+
+
 \## ⚙️ How to Run
 
 
 
-\### Compile:
+\### Compile
+
+```bash
 
 gcc main.c contact.c file.c -o addressbook
 
 
 
-\### Run:
+\###Run
+
+```bash
 
 ./addressbook
 
 
 
-\## 🎯 Learning Outcomes
+🎯 Learning Outcomes
 
-\- Learned file handling in C  
+\-Learned file handling in C
 
-\- Improved understanding of structures  
+\-Improved understanding of structures
 
-\- Built modular code using multiple files  
+\-Built modular code using multiple files
 
 
 
-\## 👩‍💻 Author
+👩‍💻 Author
+
+
 
 Swati Pathak
 
