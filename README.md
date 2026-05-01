@@ -60,7 +60,7 @@ It allows users to store, search, edit, and delete contacts using file handling.
 
 gcc main.c contact.c file.c -o addressbook
 
-
+\---
 
 \###Run
 
@@ -68,7 +68,7 @@ gcc main.c contact.c file.c -o addressbook
 
 ./addressbook
 
-
+\---
 
 🎯 Learning Outcomes
 
@@ -78,7 +78,7 @@ gcc main.c contact.c file.c -o addressbook
 
 \-Built modular code using multiple files
 
-
+\---
 
 👩‍💻 Author
 
